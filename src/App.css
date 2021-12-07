@@ -6,6 +6,16 @@
   height: 40vmin;
   pointer-events: none;
 }
+.cities {
+  width: 50%;
+  height: 100%;
+  margin: auto;
+}
+.cities_content {
+  background-color: #ffe6bc;
+  box-shadow: rgba(17, 12, 46, 0.15) 0px 48px 100px 0px;
+  color: #040303;
+}
 
 @media (prefers-reduced-motion: no-preference) {
   .App-logo {
